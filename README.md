@@ -3,7 +3,7 @@ LeetCode
 ========
 
 ### LeetCode Problems/Solutions
-
+#### My personal solutions to Leetcode problems along with any relevant notes.
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
