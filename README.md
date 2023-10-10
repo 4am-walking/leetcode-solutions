@@ -16,7 +16,7 @@ LeetCode
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [C](./algorithms/c/reverseLinkedList.c), [Python3](./algorithms/python3/reverseLinkedList.py)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/description/) | [C](./algorithms/c/removeElement.c), [Python3](./algorithms/python3/removeElement.py)|Easy|
 |905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/) | [C](./algorithms/c/sortArrayByParity.c), [Python3](./algorithms/python3/sortArrayByParity.py)|Easy|
-|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [C](./algorithms/c/middleOfTheLinkedList.c)|Easy|
+|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [C](./algorithms/c/middleOfTheLinkedList.c), [Python3](./algorithms/python3/middleOfTheLinkedList.py)|Easy|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/description/) | [C](./algorithms/c/ransomNote.c)|Easy|
 |2678|[Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/description/) | [Python3](./algorithms/python3/numberOfSeniorCitizens.py)|Easy|
 
