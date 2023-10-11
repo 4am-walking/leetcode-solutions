@@ -8,6 +8,7 @@ LeetCode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | [C](./algorithms/c/maxConsecutiveOnes.c), [Python3](./algorithms/python3/maxConsecutiveOnes.py)|Easy|
+|1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/) | [C](./algorithms/c/findNumbersWithEvenNumberOfDigits.c), [Python3](./algorithms/python3/findNumbersWithEvenNumberOfDigits.py)|Easy|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description/) | [C](./algorithms/c/runningSumOf1DArray.c), [Python3](./algorithms/python3/runningSumOf1DArray.py)|Easy|
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/description/) | [C](./algorithms/c/richestCustomerWealth.c), [Python3](./algorithms/python3/richestCustomerWealth.py)|Easy|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | [C](./algorithms/c/fizzBuzz.c), [Python3](./algorithms/python3/fizzBuzz.py)|Easy|
