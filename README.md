@@ -8,6 +8,7 @@ LeetCode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/) | [C](./algorithms/c/squaresOfASortedArray.c), [Python3](./algorithms/python3/squaresOfASortedArray.py)|Easy|
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [C](./algorithms/c/mergeSortedArray.c), [Python3](./algorithms/python3/mergeSortedArray.py)|Easy|
 |1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/description/) | [C](./algorithms/c/duplicateZeros.c), [Python3](./algorithms/python3/duplicateZeros.py)|Easy|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | [C](./algorithms/c/maxConsecutiveOnes.c), [Python3](./algorithms/python3/maxConsecutiveOnes.py)|Easy|
 |1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/) | [C](./algorithms/c/findNumbersWithEvenNumberOfDigits.c), [Python3](./algorithms/python3/findNumbersWithEvenNumberOfDigits.py)|Easy|
