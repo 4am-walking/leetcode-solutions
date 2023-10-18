@@ -8,6 +8,7 @@ LeetCode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/) | [C](./algorithms/c/squaresOfASortedArray.c), [Python3](./algorithms/python3/squaresOfASortedArray.py)|Easy|
+|1346|[Check if N and its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/description/) | [C](./algorithms/c/checkIfNAndItsDoubleExist.c), [Python3](./algorithms/python3/checkIfNAndItsDoubleExist.py)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [C](./algorithms/c/removeDuplicatesFromSortedArray.c), [Python3](./algorithms/python3/removeDuplicatesFromSortedArray.py)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [C](./algorithms/c/mergeSortedArray.c), [Python3](./algorithms/python3/mergeSortedArray.py)|Easy|
 |1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/description/) | [C](./algorithms/c/duplicateZeros.c), [Python3](./algorithms/python3/duplicateZeros.py)|Easy|
