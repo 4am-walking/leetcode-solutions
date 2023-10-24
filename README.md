@@ -8,6 +8,7 @@ LeetCode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/) | [C](./algorithms/c/squaresOfASortedArray.c), [Python3](./algorithms/python3/squaresOfASortedArray.py)|Easy|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [C](./algorithms/c/moveZeroes.c), [Python3](./algorithms/python3/moveZeroes.py)|Easy|
 |1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/description/) | [C](./algorithms/c/replaceElementsWithGreatestElementOnRightSide.c), [Python3](./algorithms/python3/replaceElementsWithGreatestElementOnRightSide.py)|Easy|
 |1346|[Check if N and its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/description/) | [C](./algorithms/c/checkIfNAndItsDoubleExist.c), [Python3](./algorithms/python3/checkIfNAndItsDoubleExist.py)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [C](./algorithms/c/removeDuplicatesFromSortedArray.c), [Python3](./algorithms/python3/removeDuplicatesFromSortedArray.py)|Easy|
