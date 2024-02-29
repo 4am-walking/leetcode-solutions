@@ -7,6 +7,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1051|[Height Checker](https://leetcode.com/problems/height-checker/description/) | [C](./algorithms/c/heightChecker.c), [Python3](./algorithms/python3/heightChecker.py)|Easy|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/) | [C](./algorithms/c/squaresOfASortedArray.c), [Python3](./algorithms/python3/squaresOfASortedArray.py)|Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [C](./algorithms/c/moveZeroes.c), [Python3](./algorithms/python3/moveZeroes.py)|Easy|
 |1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/description/) | [C](./algorithms/c/replaceElementsWithGreatestElementOnRightSide.c), [Python3](./algorithms/python3/replaceElementsWithGreatestElementOnRightSide.py)|Easy|
