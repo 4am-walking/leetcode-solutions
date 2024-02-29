@@ -7,6 +7,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/) | [C](./algorithms/c/thirdMaximumNumber.c), [Python3](./algorithms/python3/thirdMaximumNumber.py)|Easy|
 |1051|[Height Checker](https://leetcode.com/problems/height-checker/description/) | [C](./algorithms/c/heightChecker.c), [Python3](./algorithms/python3/heightChecker.py)|Easy|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/) | [C](./algorithms/c/squaresOfASortedArray.c), [Python3](./algorithms/python3/squaresOfASortedArray.py)|Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [C](./algorithms/c/moveZeroes.c), [Python3](./algorithms/python3/moveZeroes.py)|Easy|
