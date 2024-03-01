@@ -7,6 +7,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [C](./algorithms/c/findAllNumbersDisappearedInAnArray.c), [Python3](./algorithms/python3/findAllNumbersDisappearedInAnArray.py)|Easy|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/) | [C](./algorithms/c/thirdMaximumNumber.c), [Python3](./algorithms/python3/thirdMaximumNumber.py)|Easy|
 |1051|[Height Checker](https://leetcode.com/problems/height-checker/description/) | [C](./algorithms/c/heightChecker.c), [Python3](./algorithms/python3/heightChecker.py)|Easy|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/) | [C](./algorithms/c/squaresOfASortedArray.c), [Python3](./algorithms/python3/squaresOfASortedArray.py)|Easy|
