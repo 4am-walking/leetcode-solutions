@@ -42,3 +42,4 @@ LeetCode
 |1148|[Article Views I](https://leetcode.com/problems/article-views-i/description/) | [Oracle](./database/oracle/articleViewsI.sql)|Easy|
 |1683|[Invalid Tweets](https://leetcode.com/problems/invalid-tweets/description/) | [Oracle](./database/oracle/invalidTweets.sql)|Easy|
 |1378|[Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/description/) | [Oracle](./database/oracle/replaceEmployeeIDWithTheUniqueIdentifier.sql)|Easy|
+|1068|[Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/description/) | [Oracle](./database/oracle/productSalesAnalysisI.sql)|Easy|
