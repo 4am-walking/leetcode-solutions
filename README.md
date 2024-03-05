@@ -5,6 +5,7 @@ LeetCode
 ### LeetCode Problems/Solutions
 #### My personal solutions to Leetcode problems along with any relevant notes.
 
+### Algorithms
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [C](./algorithms/c/findAllNumbersDisappearedInAnArray.c), [Python3](./algorithms/python3/findAllNumbersDisappearedInAnArray.py)|Easy|
@@ -31,4 +32,9 @@ LeetCode
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [C](./algorithms/c/middleOfTheLinkedList.c), [Python3](./algorithms/python3/middleOfTheLinkedList.py)|Easy|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/description/) | [C](./algorithms/c/ransomNote.c)|Easy|
 |2678|[Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/description/) | [Python3](./algorithms/python3/numberOfSeniorCitizens.py)|Easy|
+
+### Database
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|1757|[Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/) | [Oracle](./database/oracle/recyclableAndLowFatProducts.sql)|Easy|
 
