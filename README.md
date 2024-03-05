@@ -37,4 +37,5 @@ LeetCode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1757|[Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/) | [Oracle](./database/oracle/recyclableAndLowFatProducts.sql)|Easy|
+|584|[Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/) | [Oracle](./database/oracle/findCustomerReferee.sql)|Easy|
 
