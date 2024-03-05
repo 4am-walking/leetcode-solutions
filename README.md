@@ -40,3 +40,4 @@ LeetCode
 |584|[Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/) | [Oracle](./database/oracle/findCustomerReferee.sql)|Easy|
 |595|[Big Countries](https://leetcode.com/problems/big-countries/description/) | [Oracle](./database/oracle/bigCountries.sql)|Easy|
 |1148|[Article Views I](https://leetcode.com/problems/article-views-i/description/) | [Oracle](./database/oracle/articleViewsI.sql)|Easy|
+|1683|[Invalid Tweets](https://leetcode.com/problems/invalid-tweets/description/) | [Oracle](./database/oracle/invalidTweets.sql)|Easy|
