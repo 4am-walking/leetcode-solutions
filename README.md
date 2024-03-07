@@ -43,3 +43,8 @@ LeetCode
 |1683|[Invalid Tweets](https://leetcode.com/problems/invalid-tweets/description/) | [Oracle](./database/oracle/invalidTweets.sql)|Easy|
 |1378|[Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/description/) | [Oracle](./database/oracle/replaceEmployeeIDWithTheUniqueIdentifier.sql)|Easy|
 |1068|[Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/description/) | [Oracle](./database/oracle/productSalesAnalysisI.sql)|Easy|
+
+### JavaScript/TypeScript
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|2667|[Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/description/) | [TypeScript](./javascript/createHelloWorldFunction.ts)|Easy|
