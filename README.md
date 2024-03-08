@@ -32,6 +32,7 @@ LeetCode
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [C](./algorithms/c/middleOfTheLinkedList.c), [Python3](./algorithms/python3/middleOfTheLinkedList.py)|Easy|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/description/) | [C](./algorithms/c/ransomNote.c)|Easy|
 |2678|[Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/description/) | [Python3](./algorithms/python3/numberOfSeniorCitizens.py)|Easy|
+|3005|[Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/description/) | [Python3](./algorithms/python3/countElementsWithMaximumFrequency.py)|Easy|
 
 ### Database
 | # | Title | Solution | Difficulty |
