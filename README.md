@@ -56,3 +56,6 @@ LeetCode
 |2634|[Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/description/) | [TypeScript](./javascript/filterElementsFromArray.ts)|Easy|
 |2626|[Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/description/) | [TypeScript](./javascript/arrayReduceTransformation.ts)|Easy|
 |2629|[Function Composition](https://leetcode.com/problems/function-composition/description/) | [TypeScript](./javascript/functionComposition.ts)|Easy|
+|2703|[Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/description/) | [TypeScript](./javascript/returnLengthOfArgumentsPassed.ts)|Easy|
+|2666|[Allow One Function Call](https://leetcode.com/problems/allow-one-function-call/description/) | [TypeScript](./javascript/allowOneFunctionCall.ts)|Easy|
+|2623|[Memoize](https://leetcode.com/problems/memoize/description/) | [TypeScript](./javascript/memoize.ts)|Medium|
