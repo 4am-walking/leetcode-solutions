@@ -55,3 +55,4 @@ LeetCode
 |2635|[Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/description/) | [TypeScript](./javascript/applyTransformOverEachElementInArray.ts)|Easy|
 |2634|[Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/description/) | [TypeScript](./javascript/filterElementsFromArray.ts)|Easy|
 |2626|[Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/description/) | [TypeScript](./javascript/arrayReduceTransformation.ts)|Easy|
+|2629|[Function Composition](https://leetcode.com/problems/function-composition/description/) | [TypeScript](./javascript/functionComposition.ts)|Easy|
