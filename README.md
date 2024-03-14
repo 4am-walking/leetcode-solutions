@@ -62,3 +62,4 @@ LeetCode
 |2621|[Sleep](https://leetcode.com/problems/sleep/description/) | [TypeScript](./javascript/sleep.ts)|Easy|
 |2723|[Add Two Promises](https://leetcode.com/problems/add-two-promises/description/) | [TypeScript](./javascript/addTwoPromises.ts)|Easy|
 |2715|[Timeout Cancellation](https://leetcode.com/problems/timeout-cancellation/description/) | [TypeScript](./javascript/timeoutCancellation.ts)|Easy|
+|2725|[Interval Cancellation](https://leetcode.com/problems/interval-cancellation/description/) | [TypeScript](./javascript/intervalCancellation.ts)|Easy|
