@@ -59,3 +59,6 @@ LeetCode
 |2703|[Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/description/) | [TypeScript](./javascript/returnLengthOfArgumentsPassed.ts)|Easy|
 |2666|[Allow One Function Call](https://leetcode.com/problems/allow-one-function-call/description/) | [TypeScript](./javascript/allowOneFunctionCall.ts)|Easy|
 |2623|[Memoize](https://leetcode.com/problems/memoize/description/) | [TypeScript](./javascript/memoize.ts)|Medium|
+|2621|[Sleep](https://leetcode.com/problems/sleep/description/) | [TypeScript](./javascript/sleep.ts)|Easy|
+|2723|[Add Two Promises](https://leetcode.com/problems/add-two-promises/description/) | [TypeScript](./javascript/addTwoPromises.ts)|Easy|
+|2715|[Timeout Cancellation](https://leetcode.com/problems/timeout-cancellation/description/) | [TypeScript](./javascript/timeoutCancellation.ts)|Easy|
