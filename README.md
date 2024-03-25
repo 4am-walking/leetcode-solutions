@@ -9,6 +9,8 @@ LeetCode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [C](./algorithms/c/findAllNumbersDisappearedInAnArray.c), [Python3](./algorithms/python3/findAllNumbersDisappearedInAnArray.py)|Easy|
+|724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) | [C](./algorithms/c/findPivotIndex.c), [Python3](./algorithms/python3/findPivotIndex.py)|Easy|
+|1991|[Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/description/) | [C](./algorithms/c/findTheMiddleIndexInArray.c), [Python3](./algorithms/python3/findTheMiddleIndexInArray.py)|Easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [C](./algorithms/c/validAnagram.c), [Python3](./algorithms/python3/validAnagram.py)|Easy|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/) | [C](./algorithms/c/thirdMaximumNumber.c), [Python3](./algorithms/python3/thirdMaximumNumber.py)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [C](./algorithms/c/containsDuplicate.c), [Python3](./algorithms/python3/containsDuplicate.py)|Easy|
