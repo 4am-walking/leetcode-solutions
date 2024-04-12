@@ -48,6 +48,7 @@ LeetCode
 |1683|[Invalid Tweets](https://leetcode.com/problems/invalid-tweets/description/) | [Oracle](./database/oracle/invalidTweets.sql)|Easy|
 |1378|[Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/description/) | [Oracle](./database/oracle/replaceEmployeeIDWithTheUniqueIdentifier.sql)|Easy|
 |1068|[Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/description/) | [Oracle](./database/oracle/productSalesAnalysisI.sql)|Easy|
+|181|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/description/) | [Oracle](./database/oracle/employeesEarningMoreThanTheirManagers.sql)|Easy|
 
 ### JavaScript/TypeScript
 | # | Title | Solution | Difficulty |
