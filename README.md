@@ -37,6 +37,7 @@ LeetCode
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/description/) | [C](./algorithms/c/ransomNote.c)|Easy|
 |2678|[Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/description/) | [Python3](./algorithms/python3/numberOfSeniorCitizens.py)|Easy|
 |3005|[Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/description/) | [Python3](./algorithms/python3/countElementsWithMaximumFrequency.py)|Easy|
+|9|[Palindrome Number](https://leetcode.com/problems/count-elements-with-maximum-frequency/description/) | [Python3](./algorithms/python3/palindromeNumber.py)|Easy|
 
 ### Database
 | # | Title | Solution | Difficulty |
